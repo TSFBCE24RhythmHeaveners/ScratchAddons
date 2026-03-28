@@ -165,7 +165,7 @@
   "recolor-custom-blocks",
   "totally-normal-modes",
   "editor-text2blocks",
-
+  "self-referencing",
   "// NEW ADDONS ABOVE THIS ↑↑",
   "// Note: these themes need this exact order to work properly,",
   "// because the first in the list gets their CSS injected first,",
