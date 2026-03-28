@@ -65,7 +65,7 @@ Other open-source projects (such as Scratch forks) can also make use of the addo
 No building is required. The best way to download the source is with Git:
 
 ```sh
-git clone https://github.com/ScratchAddons/ScratchAddons.git
+git clone https://github.com/TSFBCE24RhythmHeaveners/ScratchAddons.git
 ```
 
 For browser support information and other installation methods, check [the documentation](https://scratchaddons.com/docs/getting-started/installing).
