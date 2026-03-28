@@ -1,0 +1,37 @@
+{
+  "name": "Boolean shape operations",
+  "description": "Adds boolean path operations to the vector costume editor: unite, subtract, intersect, exclude, combine, release, expand, open/close path, and a shaping sub-menu.",
+  "credits": [
+    {
+      "name": "griffpatch",
+      "link": "https://scratch.mit.edu/users/griffpatch/"
+    }
+  ],
+  "tags": ["editor", "costumeEditor"],
+  "versionAdded": "1.45.0",
+  "enabledByDefault": false,
+  "libraries": ["scratch-paint"],
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["projects"],
+      "runAtComplete": false
+    }
+  ],
+  "settings": [
+    {
+      "name": "Fix modifier keys getting stuck after Alt+Tab",
+      "id": "fix-stuck-modifiers",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "Fix duplicate shapes when Alt-dragging combined paths",
+      "id": "fix-compound-deselect",
+      "type": "boolean",
+      "default": true
+    }
+  ],
+  "dynamicEnable": true,
+  "dynamicDisable": true
+}
