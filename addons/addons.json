@@ -186,7 +186,6 @@
   "horizontal-mystuff-tabs",
   "// For editor:",
   "editor-dark-mode",
-  "stage-monitor",
   "editor-colored-context-menus",
   "hide-stage",
   "editor-stage-left",
@@ -194,5 +193,6 @@
   "fullscreen",
   "columns",
   "editor-compact",
-  "editor-theme3"
+  "editor-theme3",
+  "stage-monitor"
 ]
