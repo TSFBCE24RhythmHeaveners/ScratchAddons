@@ -1,0 +1,32 @@
+{
+  "name": "Outline corners and ends",
+  "description": "Adds controls for choosing sharp, beveled or rounded outline corners and flat, round, or square line ends in the costume editor.",
+  "credits": [
+    {
+      "name": "griffpatch",
+      "link": "https://scratch.mit.edu/users/griffpatch/"
+    }
+    {
+      "name": "ILoveDogs5335",
+      "link": "https://scratch.mit.edu/users/ILuvDogs-5335/"
+    }
+  ],
+  "tags": ["editor", "costumeEditor"],
+  "dynamicEnable": true,
+  "dynamicDisable": true,
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["projects"]
+    }
+  ],
+  "userstyles": [
+    {
+      "url": "style.css",
+      "matches": ["projects"]
+    }
+  ],
+  "libraries": ["scratch-paint"],
+  "enabledByDefault": false,
+  "versionAdded": "1.45.0"
+}
