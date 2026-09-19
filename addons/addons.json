@@ -164,12 +164,7 @@
   "fix-costume-drag",
   "recolor-custom-blocks",
   "totally-normal-modes",
-
-  "// NEW ADDONS ABOVE THIS ↑↑",
-  "// Note: these themes need this exact order to work properly,",
-  "// because the first in the list gets their CSS injected first,",
-  "// and so on, and we want some themes to override others.",
-  "// For website:",
+  "self-referencing",
   "dark-www",
   "scratch3to2",
   "scratchr2",
